@@ -22,7 +22,7 @@ export function Footer() {
           <ul className="space-y-3 text-sm">
             <li><a href="#" className="hover:text-primary transition-colors">LinkedIn</a></li>
             <li><a href="#" className="hover:text-primary transition-colors">Twitter</a></li>
-            <li><a href="mailto:hello@ikigai.com" className="hover:text-primary transition-colors">hello@ikigai.com</a></li>
+            <li><a href="mailto:hello@ikigai.express" className="hover:text-primary transition-colors">hello@ikigai.express</a></li>
           </ul>
         </div>
       </div>

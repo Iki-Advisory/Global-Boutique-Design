@@ -148,7 +148,7 @@ export default function Home() {
           <h2 className="text-4xl md:text-6xl font-serif mb-12 text-background">
             If you're building for the world, build deliberately.
           </h2>
-          <a href="mailto:hello@ikigai.com" className="inline-flex items-center justify-center bg-primary text-primary-foreground px-10 py-5 text-sm tracking-wide hover:bg-white hover:text-foreground transition-all duration-300" data-testid="button-start-conversation">
+          <a href="mailto:hello@ikigai.express" className="inline-flex items-center justify-center bg-primary text-primary-foreground px-10 py-5 text-sm tracking-wide hover:bg-white hover:text-foreground transition-all duration-300" data-testid="button-start-conversation">
             Start a Conversation
           </a>
         </motion.div>
