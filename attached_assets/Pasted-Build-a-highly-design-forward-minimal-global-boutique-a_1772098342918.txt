@@ -1,0 +1,185 @@
+Build a highly design-forward, minimal, global boutique advisory website.
+Company name: Ikigai
+Positioning:
+Ikigai is a global boutique strategic advisory for founders, executives, and investors building at world scale.
+Primary audience:
+High-profile founders, C-level executives, and venture capitalists who will check this site after conferences or introductions. They are sharp, time-constrained, and highly design-sensitive.
+The site must feel:
+Editorial
+Scandinavian minimal
+Confident
+Understated
+Global
+Intelligent
+Not corporate
+Not startup-template
+Not flashy
+Not busy
+No gradients. No stock photos. No generic icons. No buzzwords.
+Design direction:
+Generous whitespace
+Large typography
+Serif headlines (elegant, editorial feel)
+Clean sans-serif body text
+Neutral color palette:
+Off-white or very light cream background
+Deep charcoal text
+Muted forest green or sage accent
+Strong section spacing
+Minimal animation
+Clean grid layout
+Premium aesthetic (luxury magazine meets high-end strategy firm)
+The website should have 5 pages:
+Home
+Services
+AI Transformation
+Case Studies
+Team
+HOME PAGE STRUCTURE
+Hero Section
+Headline:
+“In a world where building is cheap, growth is the only moat.”
+Subheadline:
+Ikigai partners with founders and executives to align capital, product, narrative, and AI into a single growth engine.
+Buttons:
+Work With Us
+View Case Studies
+Keep this section bold and spacious.
+Positioning Statement Section
+Large typography block:
+“Today, we are not building software.
+We are designing behavioral change at scale.”
+Paragraph below:
+As the cost and speed of building declines, distribution, persuasion, and positioning become the true competitive advantage. Ikigai operates at the intersection of capital strategy, product intelligence, and narrative architecture.
+What We Do (4 Pillars Section)
+Display as four clean columns or stacked sections with numbers.
+01 — Capital Strategy
+Seed to Series B fundraising positioning
+Series A specialty
+Cross-border capital strategy (US, Europe, India, Singapore)
+Investor narrative architecture
+Term sheet strategy
+02 — Growth Architecture
+Revenue-informed product roadmap design
+Behavioral psychology application
+Workflow optimization
+High-impact growth experiments
+Founder decision clarity
+03 — Narrative & Category Design
+Strategic positioning
+Category framing
+Partnership persuasion strategy
+Creative growth frameworks
+04 — AI as a Revenue Engine
+Use-case-first AI transformation
+Vendor evaluation & selection
+Integration roadmaps
+Revenue & productivity alignment
+Measurable ROI
+Who We Work With
+Short list:
+AI & Generative AI
+FinTech
+EdTech
+HealthTech
+Select DeepTech
+Global-first B2C
+Statement:
+Our sweet spot: companies building for global markets from day one.
+Credibility Strip
+Minimal but strong:
+Ex-Founders
+Stanford Alumni
+Former CEOs & C-Level Operators
+Forbes 30 Under 30
+Do not over-explain. Keep it visual and restrained.
+Closing CTA
+Headline:
+“If you’re building for the world, build deliberately.”
+Button:
+Start a Conversation
+SERVICES PAGE
+Clean breakdown into 3 major sections:
+Fundraising Strategy
+Headline:
+“Raising capital is not about access. It’s about precision.”
+Explain that Ikigai focuses on:
+Investor narrative construction
+Series A positioning
+Financial storytelling alignment
+Cross-border capital strategy
+Strategic preparation for institutional investors
+Position this as strategic advisory, not intro brokering.
+Growth & Product Strategy
+Headline:
+“Building is easy. Knowing what to build next is hard.”
+Explain:
+Revenue-informed roadmap design
+Behavioral psychology lens to product
+Workflow audits
+High-leverage growth experiments
+Product + GTM alignment
+Position product and growth as inseparable.
+Narrative Strategy
+Headline:
+“Identical products win or lose based on positioning.”
+Explain:
+Messaging architecture
+Category framing
+Partnership persuasion strategy
+Creative growth systems
+Top-of-mind recall strategy
+Make this strategic, not tactical marketing.
+AI TRANSFORMATION PAGE
+Headline:
+“AI is not a tool. It is an operating model shift.”
+Explain that most enterprises are overwhelmed by vendors and noise.
+Ikigai provides:
+Identification of high-leverage AI use cases
+Vendor evaluation and selection
+Revenue-first integration roadmap
+Productivity optimization
+Measurable ROI tracking
+Key positioning sentence:
+AI must increase revenue or efficiency. It cannot become experimentation theatre.
+Audience: larger companies and enterprise leaders.
+CASE STUDIES PAGE
+Minimal layout.
+Each case study must include:
+Context
+Problem
+Intervention
+Outcome
+Strategic Insight
+Keep clean and structured. No long essays.
+TEAM PAGE
+Headline:
+“Operators. Builders. Strategists.”
+Each team profile includes:
+Name
+2-line positioning summary
+Stanford affiliation (if applicable)
+Founder / CEO / C-level background
+Forbes 30 Under 30 (if applicable)
+Sub-section:
+Education Systems Advisory
+Explain capability in:
+Curriculum redesign
+Placement growth strategy
+Student acquisition systems
+Study abroad partnerships
+Institutional AI integration
+Keep tone elite, not academic.
+Tone Rules
+No clichés
+No “cutting-edge solutions”
+No “leveraging synergies”
+No “disrupting industries”
+No inflated promises
+No exclamation marks
+Short sentences
+Controlled confidence
+Overall Objective
+The website must make a high-profile founder or VC think:
+“This is sharp. This is different. This is deliberate.”
+The site should feel selective, not desperate.
