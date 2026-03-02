@@ -9,12 +9,11 @@ export function Footer() {
           </p>
         </div>
         <div>
-          <h4 className="font-medium mb-6 uppercase tracking-widest text-xs text-muted-foreground">Offices</h4>
+          <h4 className="font-medium mb-6 uppercase tracking-widest text-xs text-muted-foreground">Clients Across</h4>
           <ul className="space-y-3 text-sm">
-            <li>San Francisco</li>
-            <li>London</li>
-            <li>Singapore</li>
-            <li>Mumbai</li>
+            <li>US</li>
+            <li>Europe</li>
+            <li>Asia</li>
           </ul>
         </div>
         <div>
