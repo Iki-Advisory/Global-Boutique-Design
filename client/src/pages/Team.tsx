@@ -37,12 +37,15 @@ export default function Team() {
           {team.map((member, idx) => (
             <motion.div key={idx} variants={fadeUp} className="group">
               <div className="aspect-square bg-muted mb-8 w-full relative overflow-hidden flex items-center justify-center">
-                {/* Minimalist placeholder for the photo as requested (no stock photos, minimalist) */}
-                <div className="absolute inset-0 bg-secondary flex items-center justify-center opacity-50 group-hover:opacity-100 transition-opacity duration-700">
-                  <span className="text-4xl font-serif text-muted-foreground/30">
-                    {member.name.split(' ').map(n => n[0]).join('')}
-                  </span>
-                </div>
+                {member.image ? (
+                  <img src={member.image} alt={member.name} className="absolute inset-0 w-full h-full object-cover object-top" />
+                ) : (
+                  <div className="absolute inset-0 bg-secondary flex items-center justify-center opacity-50 group-hover:opacity-100 transition-opacity duration-700">
+                    <span className="text-4xl font-serif text-muted-foreground/30">
+                      {member.name.split(' ').map(n => n[0]).join('')}
+                    </span>
+                  </div>
+                )}
               </div>
               <h2 className="text-3xl font-serif mb-2">{member.name}</h2>
               <div className="text-sm font-medium tracking-wide text-foreground mb-4">{member.role}</div>
@@ -97,27 +100,17 @@ export default function Team() {
 
 const team = [
   {
-    name: "Elena Rostova",
-    role: "Managing Partner",
-    summary: "Strategic architect behind 4 category-defining companies. Focuses on founder narrative and structural positioning.",
-    tags: ["Ex-Founder", "Stanford Alumni", "Forbes 30 Under 30"]
+    name: "Riddhi Mittal",
+    role: "Partner, Fundraising, Narrative, Innovation",
+    summary: "Focuses on founder narrative and structural positioning. Applies behavioral psychology and revenue-informed lens to product and genAI innovation.",
+    tags: ["Ex-Founder", "Stanford Alumni", "Forbes 30 Under 30"],
+    image: "/riddhi-mittal.png"
   },
   {
-    name: "Marcus Chen",
-    role: "Partner, Capital Strategy",
-    summary: "Orchestrated over $400M in venture funding across global markets. Specializes in cross-border Series A/B term sheet strategy.",
-    tags: ["Former C-Level Operator", "Stanford Alumni"]
+    name: "Mahak Garg",
+    role: "Partner, Operational Excellence",
+    summary: "Focuses on driving operational excellence to deliver impactful client outcomes.",
+    tags: ["Ex-Founder", "Stanford Alumni", "Forbes 30 Under 30"],
+    image: "/mahak-garg.jpeg"
   },
-  {
-    name: "Sarah Jenkins",
-    role: "Partner, AI & Product",
-    summary: "Led product for a global AI platform. Designs revenue-informed integration roadmaps for enterprise clients.",
-    tags: ["Ex-Founder", "Forbes 30 Under 30"]
-  },
-  {
-    name: "David Al-Fayed",
-    role: "Director, Growth Architecture",
-    summary: "Behavioral psychology expert applying growth systems to global B2C and EdTech companies. Focuses on measurable ROI.",
-    tags: ["Former CEO"]
-  }
 ];
