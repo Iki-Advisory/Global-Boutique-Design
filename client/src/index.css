@@ -4,33 +4,33 @@
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
-  --color-background: 40 14% 97%;
-  --color-foreground: 0 0% 10%;
+  --color-background: hsl(40 14% 97%);
+  --color-foreground: hsl(0 0% 10%);
   
-  --color-card: 40 14% 97%;
-  --color-card-foreground: 0 0% 10%;
+  --color-card: hsl(40 14% 97%);
+  --color-card-foreground: hsl(0 0% 10%);
   
-  --color-popover: 40 14% 97%;
-  --color-popover-foreground: 0 0% 10%;
+  --color-popover: hsl(40 14% 97%);
+  --color-popover-foreground: hsl(0 0% 10%);
   
-  --color-primary: 133 11% 33%;
-  --color-primary-foreground: 40 14% 97%;
+  --color-primary: hsl(133 11% 33%);
+  --color-primary-foreground: hsl(40 14% 97%);
   
-  --color-secondary: 0 0% 90%;
-  --color-secondary-foreground: 0 0% 10%;
+  --color-secondary: hsl(0 0% 90%);
+  --color-secondary-foreground: hsl(0 0% 10%);
   
-  --color-muted: 0 0% 93%;
-  --color-muted-foreground: 0 0% 40%;
+  --color-muted: hsl(0 0% 93%);
+  --color-muted-foreground: hsl(0 0% 40%);
   
-  --color-accent: 133 11% 33%;
-  --color-accent-foreground: 40 14% 97%;
+  --color-accent: hsl(133 11% 33%);
+  --color-accent-foreground: hsl(40 14% 97%);
   
-  --color-destructive: 0 84% 60%;
-  --color-destructive-foreground: 0 0% 100%;
+  --color-destructive: hsl(0 84% 60%);
+  --color-destructive-foreground: hsl(0 0% 100%);
   
-  --color-border: 0 0% 88%;
-  --color-input: 0 0% 88%;
-  --color-ring: 0 0% 10%;
+  --color-border: hsl(0 0% 88%);
+  --color-input: hsl(0 0% 88%);
+  --color-ring: hsl(0 0% 10%);
   
   --radius-sm: 0;
   --radius-md: 0;
